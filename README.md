@@ -7,6 +7,10 @@ A repo to track what I need to do, and what I have done in the day.
 
 # Tasks
 
+## 2019-11-23
+
++ Implemented a simple perceptron that implements a very simple 2 input NAND Gate. Just as a fun learning experiment :) Closes issue #1.
+
 ## 2019-05-28
 - [ ] Finish reading the [Crafting Interpreters book](http://craftinginterpreters.com/). At least until where it teaches you to make an excellent hash table in C.
 - [ ] Make SAD Course presentation 0. _Urgent❗_
