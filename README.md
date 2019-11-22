@@ -10,6 +10,7 @@ A repo to track what I need to do, and what I have done in the day.
 ## 2019-11-23
 
 + Implemented a simple perceptron that implements a very simple 2 input NAND Gate. Just as a fun learning experiment :) Closes issue #1.
++ Read two sections (see https://github.com/rifazn/MyDay/issues/4#issuecomment-557696184) of the book: Neural Networks and Deep Learning.
 
 ## 2019-05-28
 - [ ] Finish reading the [Crafting Interpreters book](http://craftinginterpreters.com/). At least until where it teaches you to make an excellent hash table in C.
