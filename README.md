@@ -7,10 +7,18 @@ A repo to track what I need to do, and what I have done in the day.
 
 ## Tasks
 
+### 1st - 7th Mar, 2021
+
+- [x] Submit Strativ Job Application assignment.
+- [x] Learned the 'Django REST Framework' while doing the Strativ Job Application assignment.
+- [x] 4th March, 22:50 on the clock. Still waiting on any email from Strativ. Subitted on 3rd March at 02:00 on the clock.
+- [ ] Tomorrow, I'll go out for the first time since the end of March, last year. Pandemic isolation will end by meeting a friend who is a good friend and lived in JFCL shaar karkhana.
+
 ### 15th - 22nd Feb, 2021
 
 - [  ] Update screenshot of resume.md repo.
-- [  ] [Univ] Send Benzir the email about complaining about a teacher.
+- [x] [Univ] Send Benzir the email about complaining about a teacher.
+- [x] Swakkhar Sir called me to talk about the course. He understood everything I said in the email I sent him. I got some iportant understanding, and support from him. No compensation though. At least, the faculty is a different one on the retake this semester.
 
 ### 2019-11-23
 
