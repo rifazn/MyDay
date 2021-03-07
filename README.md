@@ -11,6 +11,7 @@ A repo to track what I need to do, and what I have done in the day.
 - [x] Tomorrow, I'll go out for the first time since the end of March, last year. Pandemic isolation will end by meeting a friend who is a good friend and lived in JFCL shaar karkhana.
 - [x] Resubmit the "Job Application assignment" but this time send it to HR, and include Abdullah bhai and Reaz bhai in CC. Previously, sent it to Sudipto bhai(senior python dev) only.
 - [ ] Tomorrow, make the `strativ-assignment` repo private, because of lack of response from them. Regardless of any response from them within that time.
+- [] Make a project using `Django Rest Framework` that will _stand as an example of REST API projects_. _Perfect_ (or make better) my current projects `subtipy` and `ytgt` and then re-apply for jobs in more places.
 
 ### 15th - 22nd Feb, 2021
 
